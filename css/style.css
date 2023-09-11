@@ -1,34 +1,50 @@
 /* HEADER */
 .pattern {
     background-image: url(../img/pattern.png);
-    background-color: rgb(57 140 236);
-    background-position: initial;
-    background-repeat: repeat-x;
-    background-size: 20%
+    background-color: rgb(24, 139, 247);
+    background-repeat: repeat;
+    height: 200px;
+    background-size: 50%;
+    
 }
 
+.title
+{
+    font-size: 60px;  
+    margin-bottom: 0%;
+}
 
 .writing {
     color:gray;
-    margin-bottom: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
 }
 
 .boolean {
     color: rgb(57 140 236);
+   
 }
 
 .date {
     color: grey;
+    margin-top: 0%;
 }
 
 .logo {
-    height: 50px;
-    margin-top: 30px;
+    height: 60px;
+    margin-top: 120px;
+    margin-left: 10px;
 }
 
 /* HEADER */
 
 /* MAIN */
+
+.info-photo {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
 
 .lorem {
     background-color: yellow;
@@ -55,7 +71,28 @@
 
 /*FOOTER */
 .text-immage {
-    size: initial;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 0%;
+    
+
+    font-size: 30px;
+    text-align: left;
+    color: aliceblue;
+    height: 220px
+    
+   
+}
+
+.text-immage2 {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    margin-top: 0%;
+
+    font-size: 30px;
+    text-align: left;
+    color: aliceblue;
+    height: 220px
 }
    
     
