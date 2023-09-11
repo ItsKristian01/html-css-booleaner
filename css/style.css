@@ -1,0 +1,26 @@
+/* HEADER */
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(57 140 236);
+    background-position: initial;
+    background-repeat: repeat-x;
+    background-size: 20%
+}
+
+.scritta {
+    color:gray;
+    size: ;
+}
+
+.boolean {
+    color: rgb(57 140 236);
+}
+
+.data {
+    color: grey;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 30px;
+}
