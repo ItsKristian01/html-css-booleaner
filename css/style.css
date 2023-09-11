@@ -62,14 +62,16 @@
 .ilum-dolore {
     background-color: yellow;
 }
-
-.interest {
-    color: gray;
-}
-
 /* MAIN */
 
 /*FOOTER */
+
+.interest {
+    color: gray;
+    font-size: large;
+}
+ 
+
 .text-immage {
     background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
