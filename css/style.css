@@ -33,12 +33,16 @@
 .lorem {
     background-color: yellow;
 }
-
+/*Table */
 .table-start {
     background-color: rgb(53, 176, 248);
-    size: 50%
+    color: azure;
 }
 
+.table-body{
+    background-color: rgb(126, 211, 245);
+}
+/*Table */
 .ilum-dolore {
     background-color: yellow;
 }
