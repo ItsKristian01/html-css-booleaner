@@ -4,7 +4,6 @@
     background-color: rgb(24, 139, 247);
     background-repeat: repeat;
     height: 200px;
-    background-size: 50%;
     
 }
 
@@ -55,10 +54,18 @@
     color: azure;
 }
 
+.large-col{
+  width: 50%;
+}
+
 .table-body{
+    text-align: left;
+    border-collapse: collapse;
     background-color: rgb(126, 211, 245);
+   
 }
 /*Table */
+
 .ilum-dolore {
     background-color: yellow;
 }
